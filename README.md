@@ -1,8 +1,17 @@
-# Estudando Git com o Tio 00
+# Estudando Git com o Tio - 00
 
-Registro de atividades
+Registro de atividades.
 
-## A gente parou no...
+## Alunos
 
-- Git Staging
+1. [Juvanna](https://github.com/madrinha01)
+2. [Prelúdio](https://github.com/seuailton)
+
+## Material
+
+- [Curso de Git do W3Schools](https://www.w3schools.com/git/)
+
+## Tópico onde finalizamos a aula anterior
+
+- [Git Staging](https://www.w3schools.com/git/git_staging_environment.asp?remote=github)
 

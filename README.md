@@ -13,5 +13,5 @@ Registro de atividades.
 
 ## Tópico onde finalizamos a aula anterior
 
-- [Git Staging](https://www.w3schools.com/git/git_staging_environment.asp?remote=github)
+- [Git Commit](https://www.w3schools.com/git/git_commit.asp?remote=github)
 

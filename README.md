@@ -13,6 +13,5 @@ Registro de atividades.
 
 ## Tópico onde finalizamos a aula anterior
 
-- [Git Commit](https://www.w3schools.com/git/git_commit.asp?remote=github)
-   - Subtópico: "How to Commit with a Message (-m)"
+- [Git Tagging](https://www.w3schools.com/git/git_tagging.asp?remote=github)
 

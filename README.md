@@ -14,4 +14,5 @@ Registro de atividades.
 ## Tópico onde finalizamos a aula anterior
 
 - [Git Tagging](https://www.w3schools.com/git/git_tagging.asp?remote=github)
+   - Subtópico: Push Tags to Remote
 

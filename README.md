@@ -13,5 +13,5 @@ Registro de atividades.
 
 ## Tópico onde finalizamos a aula anterior
 
-- [Git Stash](https://www.w3schools.com/git/git_stash.asp?remote=github)
+- [Git History](https://www.w3schools.com/git/git_history.asp?remote=github)
 

@@ -13,5 +13,5 @@ Registro de atividades.
 
 ## Tópico onde finalizamos a aula anterior
 
-- [Git History](https://www.w3schools.com/git/git_history.asp?remote=github)
-   - Subtópico: "Compare Changes (git diff)"
+- [Git Help](https://www.w3schools.com/git/git_help.asp?remote=github)
+   - Subtópico:

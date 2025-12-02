@@ -11,7 +11,11 @@ Registro de atividades.
 
 - [Curso de Git do W3Schools](https://www.w3schools.com/git/)
 
-## Tópico onde finalizamos a aula anterior
+## Histórico das aulas
 
 - [Git Help](https://www.w3schools.com/git/git_help.asp?remote=github)
    - Subtópico:
+
+| Tópico | Data |
+|:------:|:----:|
+| [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github) | 20/11/2025 |

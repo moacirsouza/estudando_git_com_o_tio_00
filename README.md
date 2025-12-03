@@ -13,9 +13,18 @@ Registro de atividades.
 
 ## Histórico das aulas
 
-- [Git Help](https://www.w3schools.com/git/git_help.asp?remote=github)
-   - Subtópico:
+Tabela com o histórico das aulas, sempre apontando para o tópico que será
+abordado no **PRÓXIMO** encontro.
 
-| Tópico | Data |
-|:------:|:----:|
-| [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github) | 20/11/2025 |
+| Tópico | Subtópico | Data |
+|--------|:---------:|------|
+| [Git Staging](https://www.w3schools.com/git/git_staging_environment.asp?remote=github) | - | 16/10/2025 |
+| [Git Commit](https://www.w3schools.com/git/git_commit.asp?remote=github) | - | 21/10/2025 |
+| [Git Commit](https://www.w3schools.com/git/git_commit.asp?remote=github) | How to Commit with a Message (-m) | 23/10/2025 |
+| [Git Tagging](https://www.w3schools.com/git/git_tagging.asp?remote=github) | - | 24/10/2025 |
+| [Git Tagging](https://www.w3schools.com/git/git_tagging.asp?remote=github) | Push Tags to Remote | 28/10/2025 |
+| [Git Stash](https://www.w3schools.com/git/git_stash.asp?remote=github) | - | 30/10/2025 |
+| [Git History](https://www.w3schools.com/git/git_history.asp?remote=github) | Compare Changes (git diff) | 02/11/2025 |
+| [Git Help](https://www.w3schools.com/git/git_help.asp?remote=github) | - | 11/11/2025 |
+| [Git Branch](https://www.w3schools.com/git/git_branch.asp?remote=github) | - | 13/11/2025 |
+| [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github) | - | 02/12/2025 |

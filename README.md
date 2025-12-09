@@ -27,4 +27,4 @@ abordado no **PRÓXIMO** encontro.
 | [Git History](https://www.w3schools.com/git/git_history.asp?remote=github) | Compare Changes (git diff) | 02/11/2025 |
 | [Git Help](https://www.w3schools.com/git/git_help.asp?remote=github) | - | 11/11/2025 |
 | [Git Branch](https://www.w3schools.com/git/git_branch.asp?remote=github) | - | 13/11/2025 |
-| [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github) | - | 02/12/2025 |
+| [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github) | Merging Branches (git merge) | 02/12/2025 |

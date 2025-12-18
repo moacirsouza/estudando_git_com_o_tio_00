@@ -29,3 +29,4 @@ abordado no **PRÓXIMO** encontro.
 | [Git Branch](https://www.w3schools.com/git/git_branch.asp?remote=github) | - | 13/11/2025 |
 | [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github) | Merging Branches (git merge) | 02/12/2025 |
 | [Git Workflow](https://www.w3schools.com/git/git_workflow.asp?remote=github) | - | 09/12/2025 |
+| [Git Best Practices](https://www.w3schools.com/git/git_best_practices.asp?remote=github) | - | 18/12/2025 |

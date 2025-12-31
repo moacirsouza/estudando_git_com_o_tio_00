@@ -13,8 +13,9 @@ Registro de atividades.
 
 ## Histórico das aulas
 
-Tabela com o histórico das aulas, sempre apontando para o tópico que será
-abordado no **PRÓXIMO** encontro.
+O histórico é mantido em uma tabela, cujo formato é definido pelas **Regras
+para Registros de Evolução de Projetos**
+([R.R.E.P.](https://github.com/moacirsouza/rrep)).
 
 | Tópico | Subtópico | Data |
 |--------|:---------:|------|
@@ -31,3 +32,4 @@ abordado no **PRÓXIMO** encontro.
 | [Git Workflow](https://www.w3schools.com/git/git_workflow.asp?remote=github) | - | 09/12/2025 |
 | [Git Best Practices](https://www.w3schools.com/git/git_best_practices.asp?remote=github) | - | 18/12/2025 |
 | [Git Glossary](https://www.w3schools.com/git/git_glossary.asp?remote=github) | - | 23/12/2025 |
+| [Git Glossary](https://www.w3schools.com/git/git_glossary.asp?remote=github) | [Index (Staging Area)](https://www.w3schools.com/git/git_glossary.asp?remote=github#index) | 30/12/2025 |

@@ -35,5 +35,5 @@ para Registros de Evolução de Projetos**
 | [Git Glossary](https://www.w3schools.com/git/git_glossary.asp?remote=github) | [Index (Staging Area)](https://www.w3schools.com/git/git_glossary.asp?remote=github#index) | 30/12/2025 |
 | [Git Security SSH](https://www.w3schools.com/git/git_security_ssh.asp?remote=github) | - | 01/01/2026 |
 | [Git GitHub Edit Code](https://www.w3schools.com/git/git_remote_edit_code.asp?remote=github) | - | 15/01/2026 |
-| [Git Pull from GitHub](https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github) | Git Fetch | 20/01/2026 |
+| [Git Pull from GitHub](https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github) | [Git Fetch](https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github#fetch) | 20/01/2026 |
 

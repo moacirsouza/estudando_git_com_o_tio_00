@@ -38,4 +38,5 @@ para Registros de Evolução de Projetos**
 | [Git Pull from GitHub](https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github) | [Git Fetch](https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github#fetch) | 20/01/2026 |
 | [Git Push to GitHub](https://www.w3schools.com/git/git_push_to_remote.asp?remote=github) | [Push Tags](https://www.w3schools.com/git/git_push_to_remote.asp?remote=github#push-tags) | 27/01/2026 |
 | [Git GitHub Branch](https://www.w3schools.com/git/git_remote_branch.asp?remote=github) | Switch Branch | 29/01/2026 |
+| [Git GitHub Branch](https://www.w3schools.com/git/git_remote_branch.asp?remote=github) | Rename Branch | 03/02/2026 |
 

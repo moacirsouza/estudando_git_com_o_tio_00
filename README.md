@@ -43,3 +43,4 @@ para Registros de Evolução de Projetos**
 | [Git Push Branch to GitHub](https://www.w3schools.com/git/git_branch_push_to_remote.asp?remote=github) | Push and Set Upstream | 10/02/2026 |
 | [Git Push Branch to GitHub](https://www.w3schools.com/git/git_branch_push_to_remote.asp?remote=github) | Push All Branches | 11/02/2026 |
 | [Git GitHub Flow](https://www.w3schools.com/git/git_github_flow.asp?remote=github) | - | 12/02/2026 |
+| [Git GitHub Flow](https://www.w3schools.com/git/git_github_flow.asp?remote=github) | Create a New Branch | 13/02/2026 |

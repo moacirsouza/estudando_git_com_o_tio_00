@@ -45,3 +45,4 @@ para Registros de Evolução de Projetos**
 | [Git GitHub Flow](https://www.w3schools.com/git/git_github_flow.asp?remote=github) | - | 12/02/2026 |
 | [Git GitHub Flow](https://www.w3schools.com/git/git_github_flow.asp?remote=github) | Create a New Branch | 13/02/2026 |
 | [Git GitHub Pages](https://www.w3schools.com/git/git_remote_pages.asp?remote=github) | - | 13/02/2026 |
+| [Git GitHub Fork](https://www.w3schools.com/git/git_remote_fork.asp?remote=github) | - | 17/02/2026 |

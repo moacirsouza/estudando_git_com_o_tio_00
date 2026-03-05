@@ -49,3 +49,4 @@ para Registros de Evolução de Projetos**
 | [Git Clone from GitHub](https://www.w3schools.com/git/git_clone.asp?remote=github) | - | 18/02/2026 |
 | [Git Revert](https://www.w3schools.com/git/git_revert.asp?remote=github) | - | 19/02/2026 |
 | [Git Reset](https://www.w3schools.com/git/git_reset.asp?remote=github) | - | 03/03/2026 |
+| [Git Reset](https://www.w3schools.com/git/git_reset.asp?remote=github) | Git Reset --mixed (default) | 05/03/2026 |

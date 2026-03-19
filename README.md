@@ -51,3 +51,4 @@ para Registros de Evolução de Projetos**
 | [Git Reset](https://www.w3schools.com/git/git_reset.asp?remote=github) | - | 03/03/2026 |
 | [Git Reset](https://www.w3schools.com/git/git_reset.asp?remote=github) | Git Reset --mixed (default) | 05/03/2026 |
 | [Git Amend](https://www.w3schools.com/git/git_amend.asp?remote=github) | - | 10/03/2026 |
+| [Git Rebase](https://www.w3schools.com/git/git_rebase.asp?remote=github) | - | 19/03/2026 |

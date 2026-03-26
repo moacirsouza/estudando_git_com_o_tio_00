@@ -53,3 +53,4 @@ para Registros de Evolução de Projetos**
 | [Git Amend](https://www.w3schools.com/git/git_amend.asp?remote=github) | - | 10/03/2026 |
 | [Git Rebase](https://www.w3schools.com/git/git_rebase.asp?remote=github) | - | 19/03/2026 |
 | [Git Reflog](https://www.w3schools.com/git/git_reflog.asp?remote=github) | - | 24/03/2026 |
+| [Git Recovery](https://www.w3schools.com/git/git_recovery.asp?remote=github) | - | 26/03/2026 |
